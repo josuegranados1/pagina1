@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Inception",
+        "price": 150.00,
+        "description": "Una película de ciencia ficción que explora el mundo de los sueños.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "price": 200.00,
+        "description": "La aclamada película de Batman dirigida por Christopher Nolan.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Interstellar",
+        "price": 180.00,
+        "description": "Una aventura épica para salvar a la humanidad a través del espacio.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Parasite",
+        "price": 120.00,
+        "description": "Una comedia oscura y un thriller social ganador del Oscar.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "price": 250.00,
+        "description": "El épico final de los Vengadores enfrentándose a Thanos.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Joker",
+        "price": 170.00,
+        "description": "Una oscura exploración psicológica del icónico villano.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Titanic",
+        "price": 140.00,
+        "description": "Una trágica historia de amor en el famoso transatlántico.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Forrest Gump",
+        "price": 130.00,
+        "description": "La inspiradora historia de un hombre ordinario con logros extraordinarios.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Pulp Fiction",
+        "price": 160.00,
+        "description": "Una obra maestra de Quentin Tarantino con historias entrelazadas.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "The Godfather",
+        "price": 220.00,
+        "description": "La épica saga de la familia Corleone y el mundo de la mafia.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Star Wars: A New Hope",
+        "price": 190.00,
+        "description": "El inicio de la saga galáctica más icónica.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "The Matrix",
+        "price": 180.00,
+        "description": "Un revolucionario thriller de ciencia ficción sobre la realidad virtual.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Gladiator",
+        "price": 150.00,
+        "description": "Una épica historia de venganza y gloria en la antigua Roma.",
+        "image": "https://via.placeholder.com/150x200"
+    },
+    {
+        "title": "Toy Story",
+        "price": 100.00,
+        "description": "La primera película animada de Pixar que dio vida a los juguetes.",
+        "image": "https://via.placeholder.com/150x200"
+    }
+]
